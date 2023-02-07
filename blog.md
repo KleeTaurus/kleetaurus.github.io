@@ -12,6 +12,7 @@ One day you have to give it back.
 * [Unleashing the Potential of ChatGPT in the Classroom](https://discusschatgpt.com/chatgpt-in-the-classroom/)
 * [Nostr NIP-05 verification with GitHub Pages](https://mutatrum.com/nostr-verification-through-github-pages/)
 * [Azure OpenAI Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/)
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#education)
 
 ## 2023/02/03
 
