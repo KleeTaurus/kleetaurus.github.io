@@ -11,6 +11,7 @@ One day you have to give it back.
 * [Training your own ChatGPT model: A step-by-step tutorial](https://discusschatgpt.com/training-your-own-chatgpt-model-a-step-by-step-tutorial/)
 * [Unleashing the Potential of ChatGPT in the Classroom](https://discusschatgpt.com/chatgpt-in-the-classroom/)
 * [Nostr NIP-05 verification with GitHub Pages](https://mutatrum.com/nostr-verification-through-github-pages/)
+* [Azure OpenAI Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/)
 
 ## 2023/02/03
 
