@@ -6,7 +6,18 @@
     <description>Recent content on What I read every week</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Feb 2023 13:31:36 +0800</lastBuildDate><atom:link href="https://kleetaurus.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Feb 2023 13:31:36 +0800</lastBuildDate><atom:link href="https://kleetaurus.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I read this week - 2023/02/10</title>
+      <link>https://kleetaurus.github.io/posts/wirtw-230210/</link>
+      <pubDate>Wed, 08 Feb 2023 13:31:36 +0800</pubDate>
+      
+      <guid>https://kleetaurus.github.io/posts/wirtw-230210/</guid>
+      <description> Knowledge is power.
+&amp;mdash; Sir Francis Bacon
+Articles Unleashing the Potential of ChatGPT in the Classroom Best practices for fine-tuning GPT-3 to classify text How ChatGPT Works: The Model Behind The Bot References Azure OpenAI Documentation Training your own ChatGPT model: A step-by-step tutorial Liftoff! How to get started with your first ML project Awesome Public Datasets Nostr NIP-05 verification with GitHub Pages Universal Clipboard Not Working Between iPhone and Mac: 9 Fixes to Try How to Protect Your Home Network with a Gigabit VPN What Server-Sent Events is - and how and when to implement it </description>
+    </item>
+    
     <item>
       <title>What I read this week - 2023/02/03</title>
       <link>https://kleetaurus.github.io/posts/wirtw-230203/</link>
@@ -15,7 +26,7 @@
       <guid>https://kleetaurus.github.io/posts/wirtw-230203/</guid>
       <description> The people say that all energy is only borrowed. One day you have to give it back.
 &amp;mdash; Avatar The Way of Water
-Generate Images With DALL·E 2 and the OpenAI API OpenAI Cookbook An online video suite for professionals How to contribute to a open source project Interview: What does it take to become a software architect? An advanced guide to writing prompts for Midjourney ( text-to-image ) ChatGPT tutorial: ChatGPT - A guide on how to use OpenAI&amp;rsquo;s new ChatGPT </description>
+Articles How to contribute to a open source project Interview: What does it take to become a software architect? An advanced guide to writing prompts for Midjourney ( text-to-image ) References Generate Images With DALL·E 2 and the OpenAI API OpenAI Cookbook ChatGPT tutorial: ChatGPT - A guide on how to use OpenAI&amp;rsquo;s new ChatGPT An online video suite for professionals </description>
     </item>
     
   </channel>
