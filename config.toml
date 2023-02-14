@@ -1,4 +1,4 @@
 baseURL = 'https://kleetaurus.github.io/'
 languageCode = 'en-us'
 title = 'What I read every week'
-theme = 'ananke'
+theme = 'mini'
