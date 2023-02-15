@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open source on What I read every week</title>
+    <link>https://kleetaurus.github.io/tags/open-source/</link>
+    <description>Recent content in open source on What I read every week</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Feb 2023 13:31:36 +0800</lastBuildDate><atom:link href="https://kleetaurus.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I read this week - 2023/02/03</title>
+      <link>https://kleetaurus.github.io/posts/wirtw-230203/</link>
+      <pubDate>Fri, 03 Feb 2023 13:31:36 +0800</pubDate>
+      
+      <guid>https://kleetaurus.github.io/posts/wirtw-230203/</guid>
+      <description> The people say that all energy is only borrowed. One day you have to give it back.
+&amp;mdash; Avatar The Way of Water
+Articles 🔗 How to contribute to a open source project Interview: What does it take to become a software architect? An advanced guide to writing prompts for Midjourney ( text-to-image ) References 🔗 Generate Images With DALL·E 2 and the OpenAI API OpenAI Cookbook ChatGPT tutorial: ChatGPT - A guide on how to use OpenAI&amp;rsquo;s new ChatGPT An online video suite for professionals </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,7 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kleetaurus.github.io/tags/chatgpt/</loc>
+    <lastmod>2023-02-12T17:08:48+08:00</lastmod>
+  </url><url>
+    <loc>https://kleetaurus.github.io/tags/openai/</loc>
+    <lastmod>2023-02-12T17:08:48+08:00</lastmod>
+  </url><url>
     <loc>https://kleetaurus.github.io/posts/</loc>
+    <lastmod>2023-02-12T17:08:48+08:00</lastmod>
+  </url><url>
+    <loc>https://kleetaurus.github.io/tags/renewables/</loc>
+    <lastmod>2023-02-12T17:08:48+08:00</lastmod>
+  </url><url>
+    <loc>https://kleetaurus.github.io/tags/</loc>
+    <lastmod>2023-02-12T17:08:48+08:00</lastmod>
+  </url><url>
+    <loc>https://kleetaurus.github.io/tags/tech-startup/</loc>
     <lastmod>2023-02-12T17:08:48+08:00</lastmod>
   </url><url>
     <loc>https://kleetaurus.github.io/</loc>
@@ -11,14 +26,36 @@
     <loc>https://kleetaurus.github.io/posts/wirtw-230217/</loc>
     <lastmod>2023-02-12T17:08:48+08:00</lastmod>
   </url><url>
+    <loc>https://kleetaurus.github.io/tags/nostr/</loc>
+    <lastmod>2023-02-08T13:31:36+08:00</lastmod>
+  </url><url>
+    <loc>https://kleetaurus.github.io/tags/public-dataset/</loc>
+    <lastmod>2023-02-08T13:31:36+08:00</lastmod>
+  </url><url>
+    <loc>https://kleetaurus.github.io/tags/sse/</loc>
+    <lastmod>2023-02-08T13:31:36+08:00</lastmod>
+  </url><url>
+    <loc>https://kleetaurus.github.io/tags/vpn/</loc>
+    <lastmod>2023-02-08T13:31:36+08:00</lastmod>
+  </url><url>
     <loc>https://kleetaurus.github.io/posts/wirtw-230210/</loc>
     <lastmod>2023-02-08T13:31:36+08:00</lastmod>
+  </url><url>
+    <loc>https://kleetaurus.github.io/tags/midjourney/</loc>
+    <lastmod>2023-02-03T13:31:36+08:00</lastmod>
+  </url><url>
+    <loc>https://kleetaurus.github.io/tags/open-source/</loc>
+    <lastmod>2023-02-03T13:31:36+08:00</lastmod>
+  </url><url>
+    <loc>https://kleetaurus.github.io/tags/software-architect/</loc>
+    <lastmod>2023-02-03T13:31:36+08:00</lastmod>
+  </url><url>
+    <loc>https://kleetaurus.github.io/tags/video/</loc>
+    <lastmod>2023-02-03T13:31:36+08:00</lastmod>
   </url><url>
     <loc>https://kleetaurus.github.io/posts/wirtw-230203/</loc>
     <lastmod>2023-02-03T13:31:36+08:00</lastmod>
   </url><url>
     <loc>https://kleetaurus.github.io/categories/</loc>
-  </url><url>
-    <loc>https://kleetaurus.github.io/tags/</loc>
   </url>
 </urlset>
